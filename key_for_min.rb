@@ -6,7 +6,7 @@ def key_for_min_value(name_hash)
     x = nil
     if value < nil && value > value 
       x = value
-      puts x
+      puts key
     else
       puts x 
     end
